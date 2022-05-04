@@ -19,15 +19,13 @@ function chgPic(e){
 export class BigHome extends React.Component {
     render() {
       return (
-        <div id="body" class="home">
+        <div id="body" className='home'>
           <h1>
           <a href="">Frozen Yogurt</a>
           </h1>
-          <div className="header">
           <img //onClick ={chgPic}
             src={bgHome} 
             alt="" />
-          </div>
         </div>
       );
     }
