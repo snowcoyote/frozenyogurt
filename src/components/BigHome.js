@@ -1,4 +1,4 @@
-import bgHome from '../../images/bg-home.jpg';
+import bgHome from '../images/bg-home.jpg';
 import React from 'react';
 
 export class BigHome extends React.Component {
